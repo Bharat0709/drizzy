@@ -1,6 +1,6 @@
 import './App.css';
 import Home from './components/home/Hero';
-import Footer from './components/common/Footer';
+import Footer from './components/common/footer';
 import DownloadApp from './components/downloadApp/DownloadApp';
 import Features from './components/features/Features';
 import TrainersTestimonials from './components/testimonials/TrainersTestimonials';
