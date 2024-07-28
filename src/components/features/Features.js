@@ -2,7 +2,7 @@ import * as React from 'react';
 
 function Features() {
   return (
-    <div className='flex flex-col items-center px-20 my-20  pt-10  bg-orange-200 max-md:px-5 '>
+    <div className='flex flex-col items-center px-20 my-20 mt-0  pt-10  bg-orange-200 max-md:px-5 '>
       <div className='flex flex-col px-14 text-2xl lg:text-4xl text-black max-md:px-5 max-md:max-w-full'>
         <div className='self-center'>The widest Range of </div>
         <div className='font-bold tracking-wide text-2xl lg:text-4xl mt-4 max-md:max-w-full'>
