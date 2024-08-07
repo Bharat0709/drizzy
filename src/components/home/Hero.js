@@ -43,7 +43,7 @@ function Hero() {
                 </div>
               </div>
             </div>
-            <div className='mt-44 ml-2 text-3xl lg:ml-10 lg:text-7xl font-semibold capitalize text-zinc-800 max-md:mt-10 max-md:max-w-full max-md:text-4xl'>
+            <div className='mt-32 ml-2 text-3xl lg:ml-10 lg:text-7xl font-semibold capitalize text-zinc-800 max-md:mt-10 max-md:max-w-full max-md:text-4xl'>
               Drizzy
             </div>
             <div className='mt-3 ml-2 lg:ml-10 text-left text-2xl lg:text-4xl font-medium text-black tracking-[2.2px] max-md:max-w-full'>

@@ -5,7 +5,7 @@ function DriversTestimonials() {
   return (
     <div className='flex flex-col items-center px-5 py-10'>
       <div className=' text-2xl m-2 lg:text-4xl text-black'>
-        The widest rnage of Drivers
+        The widest range of Drivers
       </div>
       <div className='text-2xl m-4 lg:text-4xl font-bold tracking-wide text-black max-md:max-w-full'>
         Skilled and dedicarted Drivers
